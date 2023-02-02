@@ -1,0 +1,7 @@
+This is the write command.
+It allows us to write in a particular file
+
+This is the "a" mode
+And it allows me to write at an existing file
+Thisis.writelinescommand
+Writeinfile

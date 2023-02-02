@@ -1,0 +1,7 @@
+{"id": 1, "name": "Aspire Minican", "count": 20, "image": "minican.jpg", "price": "20 BGN"}
+{"id": 2, "name": "Aspire OBY", "count": 10, "image": "oby.jpg", "price": "20BGN"}
+{"id": 3, "name": "Aspire Vilter", "count": 10, "image": "vilter.jpg", "price": "21.8 BGN"}
+{"id": 4, "name": "Vampire Vape E-juice", "count": 50, "image": "vampire-e-juice.jpg", "price": "30 BGN"}
+{"id": 5, "name": "Skittles Vape E-juice", "count": 7, "image": "skittles_e_juice.jpg", "price": "30 BGN"}
+{"id": 6, "name": "Aspire Favostix", "count": 12, "image": "favostix.jpg", "price": "23 BGN"}
+{"id": 7, "name": "Super Cool Juice", "count": 6, "image": "cool_juice.jpg", "price": "18 BGN"}

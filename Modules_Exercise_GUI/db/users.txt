@@ -1,0 +1,7 @@
+{"username": "pesho", "password": "pesho123", "firstName": "peter", "lastName": "petrov"}
+{"username": "ivan", "password": "vanko123", "firstName": "vanko", "lastName": "glavchev"}
+{"username": "jhashddhhJHJH", "password": "JHASJKDHKJh", "firstName": "jsjkdfhjh", "lastName": "jhsjsdjsd"}
+{"username": "doychev", "password": "doychev123!", "firstName": "asd", "lastName": "ASD"}
+{"username": "petkov", "password": "asdsad", "firstName": "kjsd", "lastName": "asd"}
+{"username": "ddnkata", "password": "doikata123", "firstName": "dani", "lastName": "doychev"}
+{"username": "vesko", "password": "haha", "firstName": "lud", "lastName": "lud1"}
