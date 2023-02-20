@@ -65,10 +65,10 @@ while True:
                 if matrix[row][col] == "B":
                     b_coor.append([row, col])
 
-        for row in range(rows):
-            for col in range(cols):
-                if matrix[row][col] == "B":
-                    pass
+        # for row in range(rows):
+        #     for col in range(cols):
+        #         if matrix[row][col] == "B":
+        #             pass
                 # /////////////////////////////////////////////
         for el in b_coor:
             row, col = el[0], el[1]
